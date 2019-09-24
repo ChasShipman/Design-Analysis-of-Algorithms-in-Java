@@ -1,0 +1,1 @@
+Directions on running programsTo run Percolation please use the following invocation on the command line(interactions tab) of drjava: * java PercolationTo run PercolationStats please use the following invocation on the command line(interactions tab) of drjava: * java PercolationStats arg1 arg2o example: java PercolationStats 200 100
